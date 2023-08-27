@@ -1,0 +1,14 @@
+[14-Feb-2023 02:35:05 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/restaurant360/crave.restaurant360.online/vendor/composer/platform_check.php on line 24
+[14-Feb-2023 02:35:05 America/Chicago] PHP Stack trace:
+[14-Feb-2023 02:35:05 America/Chicago] PHP   1. {main}() /home/restaurant360/crave.restaurant360.online/index.php:0
+[14-Feb-2023 02:35:05 America/Chicago] PHP   2. require() /home/restaurant360/crave.restaurant360.online/index.php:24
+[14-Feb-2023 02:35:05 America/Chicago] PHP   3. ComposerAutoloaderInit021937042d3e136c097d9b3623f506e2::getLoader() /home/restaurant360/crave.restaurant360.online/vendor/autoload.php:25
+[14-Feb-2023 02:35:05 America/Chicago] PHP   4. require() /home/restaurant360/crave.restaurant360.online/vendor/composer/autoload_real.php:25
+[14-Feb-2023 02:35:05 America/Chicago] PHP   5. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33.', $error_type = 256) /home/restaurant360/crave.restaurant360.online/vendor/composer/platform_check.php:24
+[14-Feb-2023 02:35:05 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/restaurant360/crave.restaurant360.online/vendor/composer/platform_check.php on line 24
+[14-Feb-2023 02:35:05 America/Chicago] PHP Stack trace:
+[14-Feb-2023 02:35:05 America/Chicago] PHP   1. {main}() /home/restaurant360/crave.restaurant360.online/index.php:0
+[14-Feb-2023 02:35:05 America/Chicago] PHP   2. require() /home/restaurant360/crave.restaurant360.online/index.php:24
+[14-Feb-2023 02:35:05 America/Chicago] PHP   3. ComposerAutoloaderInit021937042d3e136c097d9b3623f506e2::getLoader() /home/restaurant360/crave.restaurant360.online/vendor/autoload.php:25
+[14-Feb-2023 02:35:05 America/Chicago] PHP   4. require() /home/restaurant360/crave.restaurant360.online/vendor/composer/autoload_real.php:25
+[14-Feb-2023 02:35:05 America/Chicago] PHP   5. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33.', $error_type = 256) /home/restaurant360/crave.restaurant360.online/vendor/composer/platform_check.php:24
